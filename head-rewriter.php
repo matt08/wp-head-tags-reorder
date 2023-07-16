@@ -1,7 +1,7 @@
 <?php
 /**
  * Plugin Name: Head Tags Reorder
- * Plugin URI: https://example.com/plugins/sort-head-tags
+ * Plugin URI: https://github.com/matt08/wp-head-tags-reorder/
  * Description: This plugin sorts the tags inside the <head> section based on page speed optimization priorities.
  * Version: 0.1
  * Author: Mateusz Mazurek
